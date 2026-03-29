@@ -1,1 +1,10 @@
-# fashion-store
+# fashion-store <!DOCTYPE html>
+<html>
+<head>
+    <title>My Fashion Store</title>
+</head>
+<body>
+    <h1>🔥 Welcome to My Fashion Store 👕</h1>
+    <p>Yaha best clothes milenge 😎</p>
+</body>
+</html>
